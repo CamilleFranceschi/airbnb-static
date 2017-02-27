@@ -2,8 +2,8 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url(href="https://fonts.googleapis.com/css?family=Amiko:400,700|Lobster|Mada:400,500|Nunito+Sans:400,700");
-$base-font: "Nunito", "Mada", "sans-serif";
+@import url('https://fonts.googleapis.com/css?family=Amiko:400,700|Lobster|Mada:400,500|Nunito+Sans:400,700');
+$base-font: "Mada", "Lobster", "sans-serif";
 $header-font: "Lobster", "Amiko", "sans-serif";
 
 // Local fonts (uncomment following lines)
@@ -24,11 +24,10 @@ $base-height: 1.4;
  * Colors
  * ------------------------------------- */
 // Scheme
-$blue: #1B5A7A;
-$red:#1AA59A;
+$dark-blue: #1B5A7A;
+$ocean-blue:#1AA59A;
 $green: #32B796;
 $yellow:#F3FFB9;
-$orange:#F3FFB9;
 
 
 
